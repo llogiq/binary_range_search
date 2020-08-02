@@ -1,0 +1,11 @@
+[package]
+name = "binary_range_search"
+version = "0.1.0"
+authors = ["Andre Bogus <bogusandre@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/llogiq/binary_range_search"
+license = "NUT OR Apache-2.0"
+readme = "README.md"
+description = "Binary Search in a slice for a range of values"
+
+[dependencies]
